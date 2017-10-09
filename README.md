@@ -1,6 +1,6 @@
-This is my sample refrence for docker work.
+These dockerfile's are my reference for docker work.
 ----
 
 I have been adding my docker files with various configuration which I have been learning and doing.
-These all my refrences. 
+These all my references. 
 
