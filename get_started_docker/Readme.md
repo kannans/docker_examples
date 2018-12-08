@@ -1,4 +1,4 @@
-1) Build a image
+#### Build a image
 
 ```
  docker build -t friendlyhello .
@@ -24,7 +24,7 @@ docker container stop 1fa4ab2cf395
 ```
 
 
-2) Docker Compose
+##### Docker Compose
 
 Lets start stack service with docker.
 
